@@ -1,1 +1,5 @@
 # test-repository
+
+## Purpose
+
+The repo is used for learning puposes. Do not treat it seriously as we just play with it.
