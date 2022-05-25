@@ -2,4 +2,4 @@
 
 ## Purpose
 
-The repo is used for learning puposes. Do not treat it seriously as we just play with it. Added another setnece.
+The repo is used for learning puposes. Do not treat it seriously as we just play with it.
